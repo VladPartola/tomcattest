@@ -49,6 +49,8 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
             <div id="upper" class="curved container">
                 <div id="congrats" class="curved container">
                     <h2>If you're seeing this, you've successfully installed Tomcat from GitHub by Vlad Partola. Congratulations!</h2>
+                    <h2>If you're seeing this, you've successfully installed Tomcat from GitHub by Vlad Partola. Congratulations!</h2>
+                    <h2>If you're seeing this, you've successfully installed Tomcat from GitHub by Vlad Partola. Congratulations!</h2>
                 </div>
                 <div id="notice">
                     <img id="tomcat-logo" src="tomcat.svg" alt="[tomcat logo]" />
